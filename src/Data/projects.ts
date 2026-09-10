@@ -19,13 +19,13 @@ export const projects: Project[] = [
     desc: "Landing page responsif dengan animasi halus dan optimasi performa tinggi.",
     tags: ["React", "Framer Motion", "Tailwind CSS"],
     link: "satset-ai.netlify.app/",
-    github: "https://github.com/username/landing-page",
+    github: "https://github.com/Yaalleee/",
   },
   {
     title: "Listing Kendaraan",
     desc: "Dashboard interaktif untuk visualisasi data penjualan secara real-time.",
     tags: ["Next.js", "Chart.js", "API Integration"],
     link: "listing-web-kendaraan-syahrial.vercel.app/",
-    github: "https://github.com/username/dashboard",
+    github: "https://github.com/Yaalleee/",
   },
 ];
