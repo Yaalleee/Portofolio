@@ -16,9 +16,9 @@ export const projects: Project[] = [
   },
   {
     title: "Satset Ai",
-    desc: "Landing page responsif dengan animasi halus dan optimasi performa tinggi.",
+    desc: "satset ai adalah aplikasi berbasis kecerdasan buatan untuk membantu dalam proses pengambilan keputusan.",
     tags: ["React", "Framer Motion", "Tailwind CSS"],
-    link: "satset-ai.netlify.app/",
+    link: "https://satset-ai.netlify.app/",
     github: "https://github.com/Yaalleee/",
   },
   {
