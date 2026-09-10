@@ -8,11 +8,11 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "Aplikasi Todo List",
-    desc: "Aplikasi manajemen tugas dengan fitur drag & drop dan penyimpanan lokal.",
+    title: "Coffee Lassik",
+    desc: "Coffee shop website with modern design and responsive layout.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS"],
-    link: "https://example.com",
-    github: "https://github.com/username/todo-app",
+    link: "https://coffee-lassik.vercel.app/",
+    github: "https://github.com/Yaalleee/CoffeeLassik",
   },
   {
     title: "Satset Ai",
